@@ -7,7 +7,7 @@ La posición del motor se puede dirigir para que se mueva y se mantenga en uno d
 
 
 
-[Imgur](https://imgur.com/IyUVM0Q)
+![Imgur](https://imgur.com/IyUVM0Q)
 
 
 ## Como usar en pico
