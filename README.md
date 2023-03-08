@@ -11,3 +11,12 @@ La posición del motor se puede dirigir para que se mueva y se mantenga en uno d
 
 ![Diferencias2](https://imgur.com/G3XjpXq.jpg)
 ## Como usar en pico
+
+![Esquema](https://imgur.com/9H5Agrr.jpg)
+
+El siguiente esquema propone una forma de uso para complementar la explicación de la función del motor paso a paso.
+Consta de estar conectado a las salidas gpi, con 4 botones que cada una tiene una instrucción para el motor:
+* Girar en sentido horario
+* Girar en sentido antihorario
+* Aumentar/disminuir velocidad
+* Cambiar secuencia del motor(1 paso, 2 pasos o medio paso)
