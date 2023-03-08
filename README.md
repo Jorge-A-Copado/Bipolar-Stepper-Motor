@@ -22,7 +22,7 @@ Consta de estar conectado a las salidas gpi, con 4 botones que cada una tiene un
 * Cambiar secuencia del motor(1 paso, 2 pasos o medio paso)
 
 ## Código del esquema
-
+```bash
 from machine import Pin
 import utime
 
@@ -169,3 +169,4 @@ def main():
 #Entry Point
 if __name__ == '__main__':
     main()
+    ```
